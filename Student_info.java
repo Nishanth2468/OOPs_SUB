@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class Student_info {
   String name;
    int rollnumber;

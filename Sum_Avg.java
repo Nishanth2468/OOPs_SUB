@@ -8,7 +8,7 @@ public class Sum_Avg{
         int sum  = 0;
 
         for(int i = 1; i <=3 ; i++){
-            System.out.println("Enter there values: ");
+            System.out.println("Enter three values: ");
             sum += in.nextInt();
 
         }
